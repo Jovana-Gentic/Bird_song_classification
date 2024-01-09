@@ -31,4 +31,4 @@ To evaluate the model, execute command:
 python evaluate.py
 ```
 <div align="center"><img src="./images/metrics.png"></div>
-<div align="center"><img src="./images/confusionmatrix.png"></div>
+<div align="center"><img width="500" src="./images/confusionmatrix.png"></div>
