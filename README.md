@@ -1,6 +1,6 @@
 <div align="center"> <h1> Bird song classification </h1> </div>
 <div align="center"><a>Jovana&nbsp;Gentić 🦆</a></div>
-<div align="center"><a href="https://www.kaggle.com/code/jovanagenti/spectrogram-classification-with-conv1d-97-7">kaggle notebook</a>
+<div align="center"><a href="https://www.kaggle.com/code/jovanagenti/spectrogram-classification-with-conv1d-97-7">kaggle notebook</a></div>
 
 <br>
 <br>
